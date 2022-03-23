@@ -13,7 +13,7 @@ Prepare your data, and split them as the index stated in ./data_index
 
 **UC-MIL**
 
-**train**
+**train:**
 
 ```
 run UC-MIL-train.py
@@ -21,7 +21,7 @@ run UC-MIL-train.py
 
 **BA-GCN**
 
-**train**
+**train:**
 ```
 prepare data for BA-GCN using the pre-trained UC-MIL model, select the top 16 slicesf ro each CT scan.
 ```
@@ -29,6 +29,15 @@ prepare data for BA-GCN using the pre-trained UC-MIL model, select the top 16 sl
 ```
 run BA-GCN-train.py
 ```
+
+
+**Pre-trained model**.
+
+```
+We shared the pre-trained models of UC-MIL and BA-GCN in the folder ./pre-trained_model, for two evaluation settings called './Cell' and 'cell_mosmed_covid_ct'
+```
+
+
 
 
 
