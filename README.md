@@ -63,8 +63,3 @@ If you find our work useful or use our dataset, please cite:
   doi          = {10.5281/zenodo.6361963},
   url          = {https://doi.org/10.5281/zenodo.6361963}
 }
-
-
-
-
-
