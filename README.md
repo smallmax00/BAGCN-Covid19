@@ -37,6 +37,33 @@ run BA-GCN-train.py
 We shared the pre-trained models of UC-MIL and BA-GCN in the folder ./pre-trained_model, for two evaluation settings called './Cell' and 'cell_mosmed_covid_ct'
 ```
 
+# Citation
+If you find our work useful or use our dataset, please cite:
+```
+@dataset{yanda_meng_2022_6361963,
+  author       = {Yanda Meng and
+                  Joshua Bridge and
+                  Siyu Ren and
+                  Cliff Addison and
+                  Manhui Wang and
+                  Cristin Merritt and
+                  Stu Franks and
+                  Maria Mackey and
+                  Steve Messenger and
+                  Renrong Sun and
+                  Yitian Zhao and
+                  Yalin Zheng},
+  title        = {{Dataset \& Code related to article  'Bilateral 
+                   Adaptive Graph Convolutional Network on CT based
+                   COVID-19 Diagnosis with Uncertainty-Aware
+                   Consensus-Assisted Multiple Instance Learning'}},
+  month        = mar,
+  year         = 2022,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.6361963},
+  url          = {https://doi.org/10.5281/zenodo.6361963}
+}
+
 
 
 
