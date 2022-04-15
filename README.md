@@ -1,5 +1,7 @@
 # BAGCN-Covid19
 
+Access to the data and code: https://doi.org/10.5281/zenodo.6361963
+
 
 **Dataset**:  
 
