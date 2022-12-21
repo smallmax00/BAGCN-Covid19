@@ -42,26 +42,12 @@ We shared the pre-trained models of UC-MIL and BA-GCN in the folder ./pre-traine
 # Citation
 If you find our work useful or use our dataset, please cite:
 ```
-@dataset{yanda_meng_2022_6361963,
-  author       = {Yanda Meng and
-                  Joshua Bridge and
-                  Siyu Ren and
-                  Cliff Addison and
-                  Manhui Wang and
-                  Cristin Merritt and
-                  Stu Franks and
-                  Maria Mackey and
-                  Steve Messenger and
-                  Renrong Sun and
-                  Yitian Zhao and
-                  Yalin Zheng},
-  title        = {{Dataset \& Code related to article  'Bilateral 
-                   Adaptive Graph Convolutional Network on CT based
-                   COVID-19 Diagnosis with Uncertainty-Aware
-                   Consensus-Assisted Multiple Instance Learning'}},
-  month        = mar,
-  year         = 2022,
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.6361963},
-  url          = {https://doi.org/10.5281/zenodo.6361963}
+@article{meng2022bilateral,
+  title={Bilateral adaptive graph convolutional network on CT based Covid-19 diagnosis with uncertainty-aware consensus-assisted multiple instance learning},
+  author={Meng, Yanda and Bridge, Joshua and Addison, Cliff and Wang, Manhui and Merritt, Cristin and Franks, Stu and Mackey, Maria and Messenger, Steve and Sun, Renrong and Fitzmaurice, Thomas and others},
+  journal={Medical Image Analysis},
+  pages={102722},
+  year={2022},
+  publisher={Elsevier}
 }
+
