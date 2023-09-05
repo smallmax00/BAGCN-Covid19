@@ -2,6 +2,8 @@
 
 Access to the data and code: https://doi.org/10.5281/zenodo.6361963
 
+The pre-processed cell, MosMed and CovidCT data can be found here: [data](https://drive.google.com/drive/folders/1xiYo53qsmv9Db-RD_XMgzvZwyFpes3Zw?usp=sharing)
+
 
 **Dataset**:  
 
