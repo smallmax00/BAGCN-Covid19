@@ -64,3 +64,24 @@ If you find our work useful or use our dataset, please cite:
   publisher={Elsevier}
 }
 
+@article{morozov2020mosmeddata,
+  title={Mosmeddata: data set of 1110 chest {CT} scans performed during the {COVID}-19 epidemic},
+  author={Morozov, Sergey P and Andreychenko, Anna E and Blokhin, Ivan A and Gelezhe, Pavel B and Gonchar, Anna P and Nikolaev, Alexander E and Pavlov, Nikolay A and Chernina, Valeria Yu and Gombolevskiy, Victor A},
+  journal={Digital Diagnostics},
+  volume={1},
+  number={1},
+  pages={49--59},
+  year={2020}
+}
+
+@article{RAHIMZADEH2021102588,
+title = {A fully automated deep learning-based network for detecting {COVID}-19 from a new and large lung {CT} scan dataset},
+journal = {Biomedical Signal Processing and Control},
+pages = {102588},
+year = {2021},
+issn = {1746-8094},
+doi = {https://doi.org/10.1016/j.bspc.2021.102588},
+url = {https://www.sciencedirect.com/science/article/pii/S1746809421001853},
+author = {Rahimzadeh, Mohammad and Attar, Abolfazl and Sakhaei, Seyed Mohammad},
+}
+
