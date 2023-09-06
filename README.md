@@ -2,7 +2,7 @@
 
 Access to the data and code: https://doi.org/10.5281/zenodo.6361963
 
-The pre-processed cell, MosMed and CovidCT data can be found here: [data](https://drive.google.com/drive/folders/1xiYo53qsmv9Db-RD_XMgzvZwyFpes3Zw?usp=sharing)
+The pre-segmented cell, MosMed and CovidCT data can be found here: [data](https://drive.google.com/drive/folders/1xiYo53qsmv9Db-RD_XMgzvZwyFpes3Zw?usp=sharing)
 
 
 **Dataset**:  
@@ -50,6 +50,17 @@ If you find our work useful or use our dataset, please cite:
   journal={Medical Image Analysis},
   pages={102722},
   year={2022},
+  publisher={Elsevier}
+}
+
+@article{zhang2020clinically,
+  title={Clinically applicable AI system for accurate diagnosis, quantitative measurements, and prognosis of {COVID}-19 pneumonia using computed tomography},
+  author={Zhang, Kang and Liu, Xiaohong and Shen, Jun and Li, Zhihuan and Sang, Ye and Wu, Xingwang and Zha, Yunfei and Liang, Wenhua and Wang, Chengdi and Wang, Ke and others},
+  journal={Cell},
+  volume={181},
+  number={6},
+  pages={1423--1433},
+  year={2020},
   publisher={Elsevier}
 }
 
